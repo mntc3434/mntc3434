@@ -1,5 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Mentesiont Getu</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3 align="center">A passionate web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mntc3434&label=Profile%20views&color=0e75b6&style=flat" alt="mntc3434" /> </p>
@@ -25,4 +27,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mntc3434&show_icons=true&locale=en&layout=compact" alt="mntc3434" /></p>
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br>
+
+
+![](assets/Bottom_down.svg)
+---
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mntc3434&" alt="mntc3434" /></p>
