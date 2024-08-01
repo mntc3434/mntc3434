@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/getomntesn61952" target="blank"><img src="https://img.shields.io/twitter/follow/getomntesn61952?logo=twitter&style=for-the-badge" alt="getomntesn61952" /></a> </p>
 
-- 🌱 I’m currently learning **bootstrap, Laravel**
+- 🌱 I’m currently learning **bootstrap, Flutter**
 
 - 💬 Ask me about **c++, Java**
 
