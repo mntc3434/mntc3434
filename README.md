@@ -7,7 +7,7 @@
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="center">A passionate web developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mntc3434&label=Profile%20views&color=0e75b6&style=flat" alt="mntc3434" /> </p>
 
