@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mintesiont Getu</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines="";CS+STUDENT;JAVASCRIPT+DEVELOPER;FLUTTER+DEVELOPER;WEB+DEVELOPER&center=true&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=BACKEND+DEVELOPER;CS+STUDENT;JAVASCRIPT+DEVELOPER;FLUTTER+DEVELOPER;WEB+DEVELOPER&center=true&size=20" alt="Typing SVG" />
   </a>
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -39,7 +39,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br>
-<img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/output/snake.svg" alt="Snake animation" />
+
 
 
 ![](assets/Bottom_down.svg)
