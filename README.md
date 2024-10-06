@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **bootstrap, Flutter**
 
-- 💬 Ask me about **c++, Java**
+
 
 - 📫 How to reach me **mnte3434@gmail.com**
 
