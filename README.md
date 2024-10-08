@@ -38,7 +38,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=mntc3434&theme=onedark)
 <p align="center">
