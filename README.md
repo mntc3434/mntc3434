@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/getomntesn61952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="getomntesn61952" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mintesnot gettu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mintesnot gettu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mintesinot-getu-663840205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mintesnot gettu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27334895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27334895" height="30" width="40" /></a>
 <a href="https://instagram.com/mint3.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mint3.g" height="30" width="40" /></a>
 </p>
